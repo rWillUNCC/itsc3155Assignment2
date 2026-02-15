@@ -1,3 +1,6 @@
+#Robert Williams 2/15/26
+# ITSC 3155 052 Assignment 2 - Sandwich Maker Modular
+
 import data
 from sandwich_maker import SandwichMaker
 from cashier import Cashier
